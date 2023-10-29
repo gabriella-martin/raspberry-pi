@@ -7,4 +7,5 @@
 #   all-features: false
 
 -e file:.
+pillow==10.1.0
 streamdeck==0.9.4
