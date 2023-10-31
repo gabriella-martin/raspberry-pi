@@ -6,7 +6,10 @@ dependencies = [
     "streamdeck>=0.9.4",
     "pillow>=10.1.0",
     "pathlib>=1.0.1",
+    "evdev>=1.6.1",
 ]
+# CLANG is required for the evdev dependency
+
 readme = "README.md"
 requires-python = ">= 3.8"
 
